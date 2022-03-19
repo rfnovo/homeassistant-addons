@@ -1,7 +1,7 @@
 {
   "name": "ioBroker-Rafa",
   "version": "0.8.1",
-  "image": "buanet/iobroker",
+  "image": "buanet/iobroker:latest",
   "webui": "http://[HOST]:[PORT:8081]/",
   "slug": "iobroker",
   "description": "Open source automation platform",
