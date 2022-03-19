@@ -1,6 +1,6 @@
 {
   "name": "ioBroker-Rafa",
-  "version": "v6.0.0",
+  "version": "v6.1.0",
   "image": "buanet/iobroker",
   "webui": "http://[HOST]:[PORT:8081]/",
   "slug": "iobroker",
