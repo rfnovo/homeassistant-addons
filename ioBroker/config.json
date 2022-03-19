@@ -12,7 +12,6 @@
   "startup": "application",
   "boot": "auto",
   "options": {
-    "eval": "",
     "data_path": "/config/iobroker"
   },
 
