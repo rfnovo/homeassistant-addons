@@ -1,5 +1,5 @@
 {
-  "name": "ioBroker",
+  "name": "ioBroker-Rafa",
   "version": "0.8.1",
   "image": "buanet/iobroker",
   "webui": "http://[HOST]:[PORT:8081]/",
