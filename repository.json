@@ -1,4 +1,5 @@
 {
   "name": "Home Assistant Add-On repository ",
-  "url": "https://github.com/rfnovo/homeassistant-addons/"
+  "url": "https://github.com/rfnovo/homeassistant-addons/",
+  "maintainer": "rfnovo"
 }
