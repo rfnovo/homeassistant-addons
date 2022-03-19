@@ -12,7 +12,10 @@
   "startup": "application",
   "boot": "auto",
   "options": {
-    "data_path": "/config/iobroker"
+    "eval": ""
+  },
+  "schema": {
+    "eval": "str?"
   },
   "ports": {
     "8081/tcp": 8081,
