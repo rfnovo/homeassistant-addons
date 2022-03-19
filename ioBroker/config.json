@@ -8,6 +8,7 @@
   "ingress": false,
   "ingress_port": 8081,
   "panel_icon": "mdi:iobroker",
+  "arch": ["armv7", "aarch64", "amd64"],
   "startup": "application",
   "boot": "auto",
   "options": {
