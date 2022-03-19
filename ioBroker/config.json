@@ -11,6 +11,10 @@
   "arch": ["armv7", "aarch64", "amd64"],
   "startup": "application",
   "boot": "auto",
+  "map": [
+    "share:rw",
+    "config:rw"
+  ],
   "options": {
     "data_path": "/config/iobroker"
   },
