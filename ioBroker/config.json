@@ -14,9 +14,7 @@
   "options": {
     "eval": ""
   },
-  "schema": {
-    "eval": "str?"
-  },
+
   "ports": {
     "8081/tcp": 8081,
     "8082/tcp": null,
