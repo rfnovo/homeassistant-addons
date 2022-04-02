@@ -3,7 +3,7 @@
   "version": "v6.0.0",
   "image": "buanet/iobroker",
   "webui": "http://[HOST]:[PORT:8081]/",
-  "slug": "iobroker",
+  "slug": "iobroker-old",
   "description": "Open source automation platform",
   "ingress": false,
   "ingress_port": 8081,
